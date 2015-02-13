@@ -109,5 +109,5 @@ Erion Plaku (CUA, USA)
 Stefan Ratschan (Academy of Sciences, Czech Republic)
 Ashish Tiwari (SRI, USA)
 Stavros Tripakis (Aalto University, Finnland)
-Paolo Zuliani (Unniversity of Newcastle, UK)
+Paolo Zuliani (University of Newcastle, UK)
 
