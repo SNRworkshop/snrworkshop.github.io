@@ -4,8 +4,9 @@ CALL FOR PAPERS
 SNR 2015
 **************
 
-1st International Workshop on Symbolic and Numerical Methods for Reachability Analysis
-July 19th, 2015, affiliated with CAV 2015
+1st International Workshop on Symbolic and Numerical Methods for
+Reachability Analysis July 19th, 2015, affiliated with CAV 2015
+
 San Francisco, CA, USA
 
 Web Page: http://snrworkshop.github.io
