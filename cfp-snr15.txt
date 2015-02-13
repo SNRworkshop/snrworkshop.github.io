@@ -1,0 +1,113 @@
+CALL FOR PAPERS
+
+**************
+SNR 2015
+**************
+
+1st International Workshop on Symbolic and Numerical Methods for Reachability Analysis
+July 19th, 2015, affiliated with CAV 2015
+San Francisco, CA, USA
+
+Web Page: http://snrworkshop.github.io
+
+Important Dates
+===============
+
+Submissions deadline: April 24, 2015
+Notification: May 31, 2015
+Final version: June 15, 2015
+Workshop dates: July 19, 2015
+
+Description of the Workshop
+===========================
+
+Hybrid systems model complex dynamical systems that combine discrete
+and continuous components. Reachability questions, regarding whether a
+system can run into certain subset of its state space, stand at the
+core of verification and synthesis problems for hybrid systems.
+
+Successful reachability analysis methods for hybrid systems requires
+the unification of techniques from at least two traditions:
+
+- Symbolic methods that operate on exact and discrete representations
+  of systems, in the form of various model checking and theorem
+  proving algorithms.
+
+- Numerical methods that operate on various forms of numerical
+  approximations and continuous transformations of the systems, as
+  developed in the area of continuous dynamical systems and control
+  theory.
+
+As concrete examples, one can observe how the two types of techniques
+interact in the existing approaches towards reachability
+analysis. Reachable set computation methods explicitly construct
+flow-pipes that overapproximate the reachable states over time, while
+efficient computation of such overapproximations requires symbolic
+representations such as support functions. Constraint solving methods
+symbolically encode reachability properties as logic formulas, while
+solving such formulas requires numerically-driven decision
+procedures. A goal of the workshop is to seek further synergies among
+these approaches.
+
+
+Topics
+===============
+
+The SNR workshop aims to catalyze work on the interface of symbolic
+and nu- merical methods for the reachability analysis. The scope of
+the workshop includes, but is not restricted to, the following topics:
+
+- Flow-pipe construction
+- Representation of symbolic regions within reachability algorithm
+- Abstraction techniques for hybrid systems and numerical programs
+- Symbolic trajectory generation
+- Decision procedures over real numbers
+- Reliable integration
+- Logics to reason about hybrid systems
+- Reachability analysis for planning and synthesis
+- Domain specific approaches in biology, robotics, etc
+
+
+Submission information
+======================
+
+The workshop will be a platform for focused discussion of the recent
+progress on the topic of reachability analysis of hybrid systems. We
+solicit short versions of papers (SV papers) that have been published
+in a leading venue in the past three years. We also welcome reports on
+tools, work in progress, or new ideas.
+
+An SV paper is an extended abstract of the original paper that conveys
+the main technical ideas. We recommend that the SV papers consist
+sections that explain the following aspects: intuition, technical
+details, and main observation from experiments (without listing
+statistics). SV papers can assume that the readers are experts on the
+topic, and do not need to contain introduction, basic definitions,
+etc.
+
+All paper submissions should not exceed 4 pages in LNCS style. 
+
+Paper submission must be performed via the EasyChair system:
+http://easychair.org/conferences/?conf=snr2015
+
+Chairs
+==========
+
+Sergiy Bogomolov (IST Austria, Austria)
+Sean Gao (Massachusetts Institute of Technology, USA)
+
+Program Committee
+==========
+
+Matthias Althoff (TUM, Germany)
+Parasara Sridhar Duggirala (University of Illinois at Urbana Champaign, USA)
+Martin Fränzle (University of Oldenburg, Germany)
+Goran Frehse (Verimag, France)
+Daniele Magazzeni (King’s College, UK)
+Sayan Mitra (University of Illinois at Urbana Champaign, USA)
+Erion Plaku (CUA, USA)
+Stefan Ratschan (Academy of Sciences, Czech Republic)
+Ashish Tiwari (SRI, USA)
+Stavros Tripakis (Aalto University, Finnland)
+Paolo Zuliani (Unniversity of Newcastle, UK)
+
