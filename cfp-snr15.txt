@@ -95,7 +95,7 @@ Chairs
 ==========
 
 Sergiy Bogomolov (IST Austria, Austria)
-Sean Gao (Massachusetts Institute of Technology, USA)
+Ashish Tiwari (SRI, USA)
 
 Program Committee
 ==========
@@ -104,11 +104,11 @@ Matthias Althoff (TUM, Germany)
 Parasara Sridhar Duggirala (University of Illinois at Urbana Champaign, USA)
 Martin Fränzle (University of Oldenburg, Germany)
 Goran Frehse (Verimag, France)
+Sean Gao (Massachusetts Institute of Technology, USA)
 Daniele Magazzeni (King's College, UK)
 Sayan Mitra (University of Illinois at Urbana Champaign, USA)
 Erion Plaku (CUA, USA)
 Stefan Ratschan (Academy of Sciences, Czech Republic)
-Ashish Tiwari (SRI, USA)
 Stavros Tripakis (Aalto University, Finnland)
 Paolo Zuliani (University of Newcastle, UK)
 
