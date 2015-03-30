@@ -55,8 +55,8 @@ Topics
 ===============
 
 The SNR workshop aims to catalyze work on the interface of symbolic
-and nu- merical methods for the reachability analysis. The scope of
-the workshop includes, but is not restricted to, the following topics:
+and numerical methods for the reachability analysis. The scope of the
+workshop includes, but is not restricted to, the following topics:
 
 - Flow-pipe construction
 - Representation of symbolic regions within reachability algorithm
