@@ -95,9 +95,8 @@ in CEUR one-column style
 Paper submission must be performed via the EasyChair system:
 http://easychair.org/conferences/?conf=snr2015
 
-Depending on the number of submissions, we plan to publish the
-accepted papers electronically as CEUR proceedings
-(http://ceur-ws.org/).
+All the accepted papers will be published electronically as CEUR
+proceedings (http://ceur-ws.org/).
 
 Chairs
 ==========
