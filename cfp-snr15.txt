@@ -88,7 +88,7 @@ statistics). SV papers can assume that the readers are experts on the
 topic, and do not need to contain introduction, basic definitions,
 etc.
 
-All paper submissions should not exceed 5 pages
+All paper submissions should not exceed 6 pages
 in CEUR one-column style
 (http://ceur-ws.org/Vol-XXX/samplestyles/onecolpceurws.sty).
 
